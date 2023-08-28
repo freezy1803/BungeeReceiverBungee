@@ -1,0 +1,4 @@
+name: BungeeReceiver-Bungee
+main: org.example.BungeeCommandSender
+version: '1.0'
+author: Freezy
